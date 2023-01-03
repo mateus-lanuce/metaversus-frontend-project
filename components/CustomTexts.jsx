@@ -28,10 +28,9 @@ export const TypingText = ({ title, textStyles }) => (
 
 // This is a component that is used in multiple places
 /**
- * 
- * @param {ReactFragment} title 
+ * @param {ReactFragment} title
  * @param {string} textStyles
- * @returns 
+ * @returns
  */
 export const TitleText = ({ title, textStyles }) => (
   <motion.h2
